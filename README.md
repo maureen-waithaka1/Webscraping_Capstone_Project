@@ -69,10 +69,10 @@ TOTAL_PAGES = 2870    # total pages on site (~287,000 cars)
 # Output Files
 | File | Description |
 | --- | --- |
-|```used_car_export_data.csv```| Sample / test scrape|
-|```used_car_export_data_full.csv|Full overnight scrape|
-|```scraper_progress.json|Progress tracker for resuming interrupted runs|
-|```README.md|This file|
+|```used_car_export_cleaned_data.csv```| Sample / test scrape|
+|```used_car_export_data_full.csv```|Full overnight scrape|
+|```scraper_progress.json```|Progress tracker for resuming interrupted runs|
+|```README.md```|This file|
 
 
 ### To find your files, run:
